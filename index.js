@@ -150,7 +150,7 @@ function hidesub() {
     sub = document.getElementById("sub")
     
     sub.style.opacity = "0"
-        sub.style.bottom = "-70%"
+        sub.style.bottom = "-80%"
     function hsub() {
         sub.style.display = "none"
         
